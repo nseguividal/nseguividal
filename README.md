@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nseguividal@gmail.com**
 
-- ⚡ **Fun fact**: I discovered hackathons this year and instantly fell in love with them! I’ve participated in 4 hackathons so far: 3 robotics hackathons with the Robotics Student Association at TU Delft, and 1 computer science hackathon organized by HackEurope. They’re my favorite way to learn fast, solve creative problems, and collaborate with amazing people.
+- ⚡ **Fun fact**: when I discovered hackathons I instantly fell in love with them! I’ve participated in 6 hackathons so far: 4 robotics hackathons with the Robotics Student Association at TU Delft, 1 computer science hackathon organized by HackEurope, and a hardware/Computer Vision at HackUPC. They’re my favorite way to learn fast, solve creative problems, and collaborate with amazing people.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
